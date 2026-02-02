@@ -14,8 +14,9 @@ Sou um entusiasta de tecnologia focado em transformar ideias em código. Gosto d
 ### 📊 Minhas Estatísticas:
 <p align="left">
   <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavixSantoos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavixSantoos&layout=compact&langs_count=7&theme=cobalt"/>
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DavixSantoos&theme=cobalt" />
+  <div align="center">
+ 
+</div>
 </div>
 </p>
