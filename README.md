@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVw=v1_gifs_search&ct=g/WUyyGUtzniOpYB6sA5/giphy.gif" height="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXJpdXc1eWZhaHByZWxtdmp2MnBxNWU3dTc4dXRqZjgzb2M1YmxkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A5UgDXoJ4bHPNowahP/giphy.gif" height="150" />
 
   <h1>Olá! Eu sou o David 👋</h1>
 </div>
