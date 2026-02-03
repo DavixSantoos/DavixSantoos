@@ -34,8 +34,8 @@
 ### 📫 Conecte-se comigo:
 
 <div align="left">
-  <a href="SEU_LINK_LINKEDIN" target="_blank">
-    <img src="https://www.linkedin.com/in/david-santos-775664233?utm_source=share_via&utm_content=profile&utm_medium=member_android" width="40" height="30" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/david-santos-775664233/" target="_blank">
+    <img src="https://camo.githubusercontent.com/001e7c1208607ee80e3312e50ab901a71a2a16af693e1367b605d720bbe9b79d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" width="40" height="30" alt="linkedin" />
   </a>
   <a href="SEU_LINK_INSTAGRAM" target="_blank">
     <img src="https://www.instagram.com/davixsantoos?utm_source=qr&igsh=NGZneTc1N203MWVi " width="40" height="30" alt="instagram" />
